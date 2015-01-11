@@ -25,7 +25,7 @@
 		public function main() {
 			var gravity:Vec2 = Vec2.weak(50, 100);
 			var gravity2:Vec2 = Vec2.weak(-50,100);
-			//asldaskflasdkfaklsf
+			//NEW COMMENT
 			var moon = new Moon();
             space = new Space(gravity);
 			space2 = new Space(gravity2);
