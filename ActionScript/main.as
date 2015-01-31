@@ -16,6 +16,7 @@
 	import flash.display.Bitmap;
 	
 	//import code.BasicSimulation;
+	//lalaka
 	public class main extends Sprite {
 		private var space:Space;
 		private var space2:Space;
